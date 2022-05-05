@@ -1,0 +1,71 @@
+nav.navbar {
+    background-color: orange;
+}
+
+.logo {
+    color: orange;
+}
+
+.slogan {
+    color: orange;
+    font-style: italic;
+}
+
+.why-pizza-365 {
+    text-align: center;
+    color: orange;
+    text-decoration: underline;
+}
+
+.why1 {
+    background-color: lightgoldenrodyellow;
+}
+
+.why2 {
+    background-color: yellow;
+}
+
+.why3 {
+    background-color: lightsalmon;
+}
+
+.why4 {
+    background-color: orange;
+}
+
+.combo-size {
+    color: orange;
+    text-decoration: underline;
+}
+
+.title {
+    color: orange;
+}
+
+.btn-select {
+    background-color: orange;
+}
+
+.size-s {
+    background-color: orange;
+}
+
+.size-m {
+    background-color: rgba(239, 173, 7, 0.928);
+}
+
+.footer {
+    background-color: orange;
+}
+
+.text-red {
+    color: red;
+}
+
+.result {
+    background-color: orange;
+}
+
+#daily-campaign{
+    color: red;
+}
